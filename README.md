@@ -1,5 +1,19 @@
 # Stock pairs: a new narrative is born
 
+**Contents**
+
+- [1. Stocks are coming onchain. What will people do with them?](#section-1)
+- [2. What if you traded a meme against Tesla stock?](#section-2)
+- [3. The idea started quietly. Then Bankr showed up.](#section-3)
+- [4. A meme needs a story. Companies keep providing one.](#section-4)
+- [5. Isn’t this a bit like a prediction market?](#section-5)
+- [6. People are copying the idea. Will traders stick around?](#section-6)
+- [7. Why would a chain want more meme trading?](#section-7)
+- [8. Could all this speculation make stocks easier to trade?](#section-8)
+- [Sources](#sources)
+
+<a name="section-1"></a>
+
 ## 1. Stocks are coming onchain. What will people do with them?
 
 People have talked about bringing stocks onchain for years. Now companies such as Kraken and Robinhood are making them available, despite the regulatory and infrastructure hurdles. [(1)](#source-1) Binance and Coinbase are also bringing stocks onchain through bStocks and Base. [(2)](#source-2)
@@ -10,6 +24,8 @@ Stablecoins show how this can work. People want dollars, payments, and somewhere
 
 Stocks could be another step. Traditional equity trading is large enough that even a small share could bring billions in activity onchain. [(5)](#source-5) Speed, cost, and accessibility are reasons to try it. What people build around those stocks could create others.
 
+<a name="section-2"></a>
+
 ## 2. What if you traded a meme against Tesla stock?
 
 The concept is surprisingly simple. When you buy a meme coin, you exchange another asset for it. On Solana, that might be SOL.
@@ -17,6 +33,8 @@ The concept is surprisingly simple. When you buy a meme coin, you exchange anoth
 With a stock pair, the asset on the other side is a tokenized stock. Imagine a pool holding a meme coin and tokenized Tesla stock. People trade between them, with the stock token serving as the quote asset. [(6)](#source-6)
 
 The meme can also draw its identity from the company: its products, its CEO, or a joke people associate with it. That gives traders both a market and a story to follow.
+
+<a name="section-3"></a>
 
 ## 3. The idea started quietly. Then Bankr showed up.
 
@@ -30,6 +48,8 @@ On July 20, Bankr enabled stock pairs. Its founder, @0xDeployer, launched $REAL,
 
 The setting helped. Developers had stock tokens to experiment with and a familiar way to attract traders. Bankr gave more people a reason to look at what Long.xyz had started.
 
+<a name="section-4"></a>
+
 ## 4. A meme needs a story. Companies keep providing one.
 
 A meme coin needs attention. Paid promotion can bring it quickly, but the interest can disappear just as quickly. An ongoing story gives people something to return to. [(11)](#source-11)
@@ -41,6 +61,8 @@ A company could provide recurring material too. Its CEO posts something cryptic,
 That doesn’t mean every headline raises the price. It creates another opportunity for people to discover, discuss, and trade the meme.
 
 The appeal is having something new to talk about without asking the community to manufacture a story every week. Whether people care about the company’s latest development enough to trade the meme is something the market still has to demonstrate.
+
+<a name="section-5"></a>
 
 ## 5. Isn’t this a bit like a prediction market?
 
@@ -54,6 +76,8 @@ Prediction markets do this through defined outcomes. A stock-related meme has no
 
 The similarity helps explain the appeal. A company already has people following it, arguing about it, and reacting to its news. A meme offers another outlet for that attention.
 
+<a name="section-6"></a>
+
 ## 6. People are copying the idea. Will traders stick around?
 
 The first signal was a breakout. Odaily reported Nate buying $AI at a market cap of about $219,800. [(16)](#source-16) By July 22, 2026, its reported peak was $6.15 million. [(10)](#source-10) It later exceeded $360 million on September 17. [(17)](#source-17) BankrBot put $REAL at roughly $322,000 on July 20 and $1.4 million on July 21. Those are dated snapshots, not a documented peak. [(18)](#source-18) Its first-day volume exceeded $5.6 million. [(10)](#source-10)
@@ -66,6 +90,8 @@ Builders are another signal. Multiple teams pursuing an idea suggests they see s
 
 Those are different signals: launchpad competition, token valuations, and demand for stock pairs shouldn’t be treated as interchangeable. Adoption by other chains would strengthen the case further, especially if those teams found returning users.
 
+<a name="section-7"></a>
+
 ## 7. Why would a chain want more meme trading?
 
 A chain built around stocks needs people to use those stocks. Stock pairs offer a possible route: someone interested in a meme acquires and exchanges the stock token paired with it.
@@ -77,6 +103,8 @@ The useful measures go beyond a volume spike. Are more people holding the stock 
 Those questions help distinguish a busy meme market from broader stock adoption. Both can benefit a chain, but they tell us different things about whether the activity will last.
 
 For builders, the incentive is practical. If traders keep using the pairs, there may be fees worth competing for and users worth serving. If the interest disappears after a launch, the initial numbers tell us much less about what the ecosystem can sustain.
+
+<a name="section-8"></a>
 
 ## 8. Could all this speculation make stocks easier to trade?
 
